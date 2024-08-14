@@ -1,5 +1,5 @@
-# pytorch-stable-diffusion
-PyTorch implementation of Stable Diffusion from scratch
+# Stable Diffusion
+Implementation of stable diffusion from scratch
 
 ## Download weights and tokenizer files:
 
@@ -16,9 +16,7 @@ Just download the `ckpt` file from any fine-tuned SD (up to v1.5).
 ## Special thanks
 
 Special thanks to the following repositories:
-
 1. https://github.com/CompVis/stable-diffusion/
 1. https://github.com/divamgupta/stable-diffusion-tensorflow
 1. https://github.com/kjsman/stable-diffusion-pytorch
 1. https://github.com/huggingface/diffusers/
-
